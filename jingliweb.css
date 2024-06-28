@@ -1,0 +1,82 @@
+body {
+	padding: 10px;
+}
+
+#main {
+	max-width: 960px;
+	margin: auto;
+	display: flex;
+}
+
+#left {
+	min-width: 179px;
+	padding-right: 10px;
+}
+
+#right {
+	min-width: 300px;
+	padding-left: 10px;
+}
+
+#mitei-logo{
+	width: 95px;
+	fill: gray;
+}
+
+.paper-section-type {
+	font-family: 'Montserrat', sans-serif;
+	color: gray;
+	text-align: center;
+}
+
+.paper-status {
+	font-style: italic;
+}
+
+.download-pdf {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif; 
+	color: rgb(85,144,198);
+}
+
+#school-logo {
+	margin-right: 10px;
+	margin-bottom: 5px;
+}
+
+#sloan-logo {
+	width: 50px;
+}	
+
+.name-title {
+	font-family: 'Montserrat', sans-serif;
+}
+
+#quick-info {
+	font-family: 'Montserrat', sans-serif;
+	color: gray;
+	font-size: 14px;
+}
+
+#headshot {
+	width: 200px;
+	display: block;
+	margin: auto;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.style1 {
+	font-size: 2em;
+}
+
+a:hover {
+	background-color: #e6e6e6;
+}
+a:link {
+	color: rgb(85,144,198);
+}
+a {
+	text-decoration: none;
+}
